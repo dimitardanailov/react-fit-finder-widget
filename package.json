@@ -1,0 +1,40 @@
+{
+  "name": "react-fit-finder",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/index",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimitardanailov/react-fit-finder-widget.git"
+  },
+  "keywords": [
+    "git",
+    "react",
+    "fit-finder"
+  ],
+  "author": "Dimitar Danailov <dimityr.danailov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dimitardanailov/react-fit-finder-widget/issues"
+  },
+  "homepage": "https://github.com/dimitardanailov/react-fit-finder-widget#readme",
+  "dependencies": {
+    "react": "^16.2.0",
+    "rxjs-es": "^5.0.0-beta.12"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-latest": "^6.24.1",
+    "babel-register": "^6.26.0"
+  }
+}

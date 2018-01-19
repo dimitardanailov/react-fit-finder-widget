@@ -5,4 +5,4 @@ src/
 docs/
 /packages/*/dist
 
-bower.jso
+bower.json
